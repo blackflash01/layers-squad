@@ -755,62 +755,10 @@
     "bugged": false,
     "map_size": "large"
   },
-  {
-    "map": "Jensen's Range",
-    "layer": "Jensen's Range v1",
-    "gamemode": "Training",
-    "version": "v1",
-    "team1": "GB",
-    "team2": "MIL",
-    "helicopters": false,
-    "night": false,
-    "RAA_Lanes": false,
-    "Invasion_Random": false,
-    "bugged": false,
-    "map_size": "unknown"
-  },
-  {
-    "map": "Jensen's Range",
-    "layer": "Jensen's Range v2",
-    "gamemode": "Training",
-    "version": "v2",
-    "team1": "US",
-    "team2": "RU_DE",
-    "helicopters": false,
-    "night": false,
-    "RAA_Lanes": false,
-    "Invasion_Random": false,
-    "bugged": false,
-    "map_size": "unknown"
-  },
-  {
-    "map": "Jensen's Range",
-    "layer": "Jensen's Range v3",
-    "gamemode": "Training",
-    "version": "v3",
-    "team1": "US",
-    "team2": "INS",
-    "helicopters": false,
-    "night": false,
-    "RAA_Lanes": false,
-    "Invasion_Random": false,
-    "bugged": false,
-    "map_size": "unknown"
-  },
-  {
-    "map": "Jensen's Range",
-    "layer": "Jensen's Range v4",
-    "gamemode": "Training",
-    "version": "v4",
-    "team1": "CAF_DE",
-    "team2": "INS",
-    "helicopters": false,
-    "night": false,
-    "RAA_Lanes": false,
-    "Invasion_Random": false,
-    "bugged": false,
-    "map_size": "unknown"
-  },
+
+
+
+
   {
     "map": "Kamdesh",
     "layer": "Kamdesh AAS v1",
